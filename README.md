@@ -22,11 +22,11 @@ I work across Data Analysis, Data Science and Artificial Intelligence, turning r
 
 ##  Featured Projects
 
-- 💳 **Credit Card Customer Analysis** - End-to-end data analysis of customer behavior and segmentation
-- 📝 **Text Generation** - Arabic poetry generation using NLP and deep learning models
-- 💰 **Income Prediction** - Predicting income levels with machine learning classification models
+-  **Credit Card Customer Analysis** - End-to-end data analysis of customer behavior and segmentation
+-  **Text Generation** - Arabic poetry generation using NLP and deep learning models
+-  **Income Prediction** - Predicting income levels with machine learning classification models
 
-## 📫 Contact
+##  Contact
 
 - **Email:** tarekelgraidy@gmail.com
 - **LinkedIn:** [linkedin.com/in/tarek-elgraidy](https://linkedin.com/in/tarek-elgraidy)
