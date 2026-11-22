@@ -14,9 +14,11 @@ I work across Data Analysis, Data Science and Artificial Intelligence, turning r
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Data Analysis:** SQL, Power BI, Excel, Pandas, Data Cleaning, Data Visualization, Statistical Analysis
-**Data Science:** Machine Learning, Statistical Modeling, Scikit-Learn, Data Warehousing
-**AI & Deep Learning:** TensorFlow, Neural Networks, NLP, Computer Vision
+*Data Analysis:* SQL, Power BI, Excel, Pandas, Data Cleaning, Data Visualization, Statistical Analysis
+
+*Data Science:* Machine Learning, Statistical Modeling, Scikit-Learn, Data Warehousing
+
+*AI & Deep Learning:* TensorFlow, Neural Networks, NLP, Computer Vision
 
 ##  Featured Projects
 
