@@ -1,4 +1,4 @@
-# Hi, I'm Tarek Mamdouh 👋
+# Hi, I'm Tarek Mamdouh 
 
 **AI Engineer & Data Analyst | CS & AI Graduate (Ahram Canadian University)**
 
